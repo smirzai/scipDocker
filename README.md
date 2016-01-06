@@ -1,0 +1,1 @@
+This is a simple docker image maker file for running scip http://scip.zib.de/
